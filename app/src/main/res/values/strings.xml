@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nptunes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="custom_animation">Set custom Animation</string>
+    <string name="title_activity_default_intro">DefaultIntro</string>
+    <string name="title_activity_custom_intro">CustomIntro</string>
+    <string name="title_activity_Intro_mstore">MainIntro</string>
+    <string name="title_activity_second_intro">SecondLayoutIntro</string>
+    <string name="skip">Skipped :)</string>
+    <string name="header_animations">Animations</string>
+    <string name="header_indicators">Indicators</string>
+
+
+</resources>
